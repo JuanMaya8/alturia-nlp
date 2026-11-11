@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+modelos/*
+!modelos/.gitkeep
+reportes/*_ci*
+.env
+.idea/
+.vscode/
