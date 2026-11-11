@@ -1,0 +1,12 @@
+[
+  {"id": 1, "nombre": "Cuy asado mediano", "sinonimos": ["cuy mediano", "cuyecito"], "disponible": true},
+  {"id": 2, "nombre": "Cuy asado grande", "sinonimos": ["cuy grande"], "disponible": true},
+  {"id": 3, "nombre": "Trucha frita", "sinonimos": ["trucha"], "disponible": true},
+  {"id": 4, "nombre": "Hamburguesa", "sinonimos": ["burger"], "disponible": true},
+  {"id": 5, "nombre": "Ceviche", "sinonimos": [], "disponible": true},
+  {"id": 6, "nombre": "Empanadas", "sinonimos": ["empanaditas"], "disponible": true},
+  {"id": 7, "nombre": "Jugo de lulo", "sinonimos": ["lulo"], "disponible": true},
+  {"id": 8, "nombre": "Gaseosa", "sinonimos": ["cola", "soda"], "disponible": true},
+  {"id": 9, "nombre": "Cerveza", "sinonimos": ["pola", "cerveza nacional"], "disponible": true},
+  {"id": 10, "nombre": "Hervido de maracuyá", "sinonimos": ["hervido"], "disponible": true}
+]
